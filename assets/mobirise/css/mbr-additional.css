@@ -2322,7 +2322,7 @@ body {
   color: #c1c1c1 !important;
 }
 .cid-rz42LnjSUL {
-  padding-top: 90px;
+  padding-top: 135px;
   padding-bottom: 90px;
   background-image: url("../../../assets/images/mbr-1920x1276.jpg");
 }
@@ -2364,6 +2364,9 @@ body {
     text-align: center;
     margin: 1rem 0 0 0;
   }
+}
+.cid-rz42LnjSUL H2 {
+  color: #ffffff;
 }
 .cid-rznh8pGn7T .navbar {
   padding: .5rem 0;
